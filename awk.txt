@@ -1,0 +1,9 @@
+ajay manager account 45000
+sunil clerk account 25000
+amit manager account 47000
+deepak clerk sales 23000
+sunil peon sales 13000
+satvik director purchase 80000
+sai manager sales 30000
+
+
