@@ -2,4 +2,4 @@
 
 echo $0
 
-echo "Hi" >> /home/ubuntu/linuxFiles/linuxPracticeFiles/at.txt
+echo "Hi" >> /home/trinadh/linuxPracticeFiles/at.txt

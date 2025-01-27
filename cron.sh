@@ -2,4 +2,4 @@
 
 echo $0
 
-echo "Hi" >> /home/ubuntu/linuxFiles/linuxPracticeFiles/cron.txt
+echo "Hi" >> /home/trinadh/linuxPracticeFiles/cron.txt
